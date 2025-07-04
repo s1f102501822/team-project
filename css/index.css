@@ -11,16 +11,20 @@
     color:blue;
 }
 .tennmei {
-    font-size: 30px;
+    font-size: 33px;
     font-style: normal;
     font-weight: bold;
-    margin-top: 1%;
+    margin-top: 0%;
     margin-bottom: 0%;
+    background-color: #ff0000;
 }
 .catch {
-    font-size: 20px;
+    font-size: 18px;
     font-style: oblique;
     font-weight: bold;
+    margin-top: 0%;
+    margin-bottom: 0%;
+    background-color: #c59103;
 }
 .syoukai {
     font-size: 15px;
